@@ -1,0 +1,75 @@
+main,
+footer {
+  max-width: 55%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#simply-image-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 4em;
+}
+#slogan-container > hr {
+  height: 1px;
+  background-color: #ffe092;
+  border: none;
+}
+
+#slogan-container {
+  background-color: #fdfbf1;
+  height: 3em;
+}
+#logo-slogan {
+  text-align: center;
+}
+
+#slogan-capital-letters {
+  text-transform: uppercase;
+}
+
+#content-title {
+  text-align: center;
+  font-size: 2.5em;
+}
+#main-image {
+  object-fit: contain;
+  border-radius: 10px;
+  box-shadow: 5px 2px 15px rgb(137, 136, 136);
+
+  object-fit: cover;
+}
+
+figure img {
+  border-radius: 10px;
+  box-shadow: 5px 2px 15px rgb(137, 136, 136);
+
+  object-fit: cover;
+}
+
+#main-image-caption {
+  text-align: center;
+  color: gray;
+  font-size: 1.1em;
+  margin-top: 1.1em;
+}
+
+#featured-text {
+  text-transform: uppercase;
+  color: #b5460f;
+}
+
+#featured-link > a {
+  text-decoration: underline;
+  color: #69a3a2;
+}
+
+.ingredients-content > p {
+  font-weight: bold;
+}
+
+footer a {
+  text-decoration: underline;
+  color: #69a3a2;
+}
