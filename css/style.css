@@ -69,6 +69,11 @@ figure img {
   font-weight: bold;
 }
 
+ol span {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
 footer a {
   text-decoration: underline;
   color: #69a3a2;
